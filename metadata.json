@@ -1,0 +1,5 @@
+{
+  "name": "Commute Beats",
+  "description": "A daily music curator that provides 7 personalized song recommendations (70% Korean, 30% International) for your bus or subway commute based on your preferred theme or genre.",
+  "requestFramePermissions": []
+}
